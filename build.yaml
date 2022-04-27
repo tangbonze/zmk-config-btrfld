@@ -14,4 +14,4 @@
 ---
 include:
   - board: bluemicro840_v1
-    shield: contra
+    shield: btrfld
