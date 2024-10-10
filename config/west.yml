@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: solidhal
-      url-base: https://github.com/SolidHal
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
   projects:
     - name: zmk
-      remote: solidhal
+      remote: zmkfirmware
       revision: main
       import: app/west.yml
   self:
